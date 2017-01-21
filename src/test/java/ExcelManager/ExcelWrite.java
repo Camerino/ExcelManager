@@ -22,7 +22,6 @@ public class ExcelWrite {
 		data.put("2", new Object[]{1, "Amit", "sheer"});
 		data.put("3", new Object[]{2, "", "abla"});
 		data.put("4", new Object[]{3, "adil", "memet"});
-		data.put("5", new Object[]{4, "amat", "mamat"});
 		
 		Set<String> keyset = data.keySet();
 		int rownum = 0;
